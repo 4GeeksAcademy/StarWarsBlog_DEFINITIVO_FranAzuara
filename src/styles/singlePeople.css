@@ -1,0 +1,20 @@
+.containersinglepeople{
+  display: flex;
+  justify-content: center;
+  background-color: burlywood;
+  padding: 10px;
+}
+
+.card1{
+    height: 330px;
+    width: 700px;
+    border-style: solid;
+    border-radius: 4px;
+    background-color: white;
+}
+.img-people {
+  height: auto;
+  width: 250px;
+  border-radius: 4px;
+  margin: 5px;
+}

@@ -1,0 +1,19 @@
+.containerbg{
+    background-color: burlywood;
+}
+
+.marco {
+    overflow: scroll;
+    margin-top: 10px;
+    height: 370px;
+}
+.card-img-top1 {
+    height: 250px;
+    width: 250px;
+    margin: auto;
+    margin-top: 4px;
+    border-radius: 4px;
+}
+.card{
+    height: 360px;
+}
